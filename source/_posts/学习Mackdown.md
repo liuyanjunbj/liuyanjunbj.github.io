@@ -58,7 +58,7 @@ categories: Mackdown
 \[id]是图片参考的名称，图片参考的定义方式则和连结参考一样：
 \[id]: url/to/image  "Optional title attribute"
 到目前为止， Markdown 还没有办法指定图片的宽高，如果你需要的话，你可以使用普通的img标签。
-eg: ![图片案例](\images\searchicon.png)
+eg: ![图片案例](\image\searchicon.png)
 
 #### 链接
 链接为：\[]()
